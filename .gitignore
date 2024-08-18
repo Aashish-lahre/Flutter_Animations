@@ -49,3 +49,4 @@ analysis_options.yaml
 android/
 ios/
 *.lock
+web/
